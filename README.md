@@ -15,7 +15,7 @@ It properly showcases:
 This is a responsive landing page for The KIATUU footware online store. This project simulates a real professional e-commerce landing page including all features necessary to navigate it. 
 
 ## Screenshot
-![landing page screenshot](![alt text](image-1.png)))
+![alt text](image-1.png)
 
 ## Set up abd installation
 ### the repository
